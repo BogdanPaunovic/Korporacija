@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bogda\\OneDrive\\Desktop\\Projekat Web Backend\\Projekat Web Backend.csproj": {}
+    "C:\\Users\\bogda\\OneDrive\\Desktop\\Web programiranje projekat\\Backend\\Projekat Web Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bogda\\OneDrive\\Desktop\\Projekat Web Backend\\Projekat Web Backend.csproj": {
+    "C:\\Users\\bogda\\OneDrive\\Desktop\\Web programiranje projekat\\Backend\\Projekat Web Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bogda\\OneDrive\\Desktop\\Projekat Web Backend\\Projekat Web Backend.csproj",
+        "projectUniqueName": "C:\\Users\\bogda\\OneDrive\\Desktop\\Web programiranje projekat\\Backend\\Projekat Web Backend.csproj",
         "projectName": "Projekat Web Backend",
-        "projectPath": "C:\\Users\\bogda\\OneDrive\\Desktop\\Projekat Web Backend\\Projekat Web Backend.csproj",
+        "projectPath": "C:\\Users\\bogda\\OneDrive\\Desktop\\Web programiranje projekat\\Backend\\Projekat Web Backend.csproj",
         "packagesPath": "C:\\Users\\bogda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bogda\\OneDrive\\Desktop\\Projekat Web Backend\\obj\\",
+        "outputPath": "C:\\Users\\bogda\\OneDrive\\Desktop\\Web programiranje projekat\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bogda\\AppData\\Roaming\\NuGet\\NuGet.Config"

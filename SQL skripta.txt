@@ -1,0 +1,5 @@
+INSERT INTO Corporation (Name)
+VALUES ('Nivea')
+
+INSERT INTO Corporation (Name)
+VALUES ('McDonalds')
