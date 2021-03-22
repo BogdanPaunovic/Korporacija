@@ -1,0 +1,78 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    border: solid black 1px;
+    margin: 10px;
+}
+
+.formworker{
+    display: flex;
+    flex-direction: column;
+    border: solid black 1px;
+    margin: 5px;
+    flex-basis:300px;
+    flex-grow: 1;
+}
+
+.formworkerelem{
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+}
+
+.rdb{
+    display: flex;
+    flex-direction: row;
+}
+
+.divforms{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+.divhangars{
+    display: flex;
+    flex-direction: column;
+    border: solid black 1px;
+    margin: 5px;
+}
+
+.divhangar{
+    display: flex;
+    flex-direction: column;
+    border: solid black 1px;
+    margin: 5px;
+}
+
+.divhangarvehicles{
+    display: flex;
+    flex-direction: column;
+}
+
+.divvehicle{
+    display: flex;
+    flex-direction: row;
+    border: solid black 1px;
+    margin: 5px;
+    flex-wrap: wrap;
+}
+
+.divjob{
+    display: flex;
+    flex-direction: column;
+    border: solid black 1px;
+    margin: 5px;
+    flex-grow: 1;
+    flex-basis:300px;
+}
+
+.divemploye{
+    display: flex;
+    margin: 2px;
+}
+
+.divhnagarheader{
+    display: flex;
+}
